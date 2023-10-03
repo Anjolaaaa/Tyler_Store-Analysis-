@@ -1,3 +1,5 @@
-# Demo
+# Understanding Business Performance: A case study
 
-Doing random stuff on here to understand how this works !
+##Tool(s) used
+SSMS
+T-SQL
